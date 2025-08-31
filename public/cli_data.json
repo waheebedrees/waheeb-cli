@@ -1,9 +1,9 @@
 {
   "personal_info": {
-    "name": "waheeb edrees",
-    "tagline": "ai researcher & ai engineer",
-    "current_status": "currently pushing the boundaries of artificial intelligence",
-    "about": "hi there! i'm waheeb edrees, a passionate ai researcher and ai engineer dedicated to advancing the field of artificial intelligence. i specialize in machine learning, deep learning, and ai system design with a focus on creating intelligent solutions that make a real impact.\n\nmy work spans across various domains including natural language processing, computer vision, penetration testing automation, and ai safety. i'm constantly exploring new frontiers in ai research and engineering innovative systems that push the boundaries of what's possible.\n\ngithub: waheebedrees\nwebsite: waheebedrees.pythonanywhere.com\nlocation: somewhere in the ai research space\nstatus: always learning, always researching, always building",
+    "name": "Waheeb Edrees",
+    "tagline": "Student and research enthusiast exploring AI, coding, and technology",
+    "current_status": "currently learning, building projects, and diving into research",
+    "about": "Hi there! I'm Waheeb Edrees, a student who enjoys exploring the world of artificial intelligence, coding, and technology. I'm passionate about learning, experimenting with new ideas, and building projects that help me grow and share knowledge with others.\n\nMy journey so far includes diving into areas like machine learning, deep learning, natural language processing, computer vision, and even cybersecurity automation. I'm still learning every day, but I love taking on challenges, asking big questions, and exploring how AI can make a real impact.\n\nGitHub: waheebedrees\nWebsite: waheebedrees.pythonanywhere.com\nLocation: somewhere in the AI research space\nStatus: always learning, always researching, always building",
     "contact": {
       "email": "ewaheeb02@gmail.com",
       "website": "waheebedrees.pythonanywhere.com",
@@ -13,17 +13,17 @@
   },
   "skills": {
     "programming_languages": "python, javascript, dart, shell scripting, html/css",
-    "ai_ml_frameworks": "tensorflow, pytorch, jax, hugging face transformers, scikit-learn, yolov8, opencv, pandas, numpy",
-    "specialized_areas": "machine learning, deep learning, nlp, computer vision, penetration testing automation, ai agents, neural networks, gpt-like models, emotion detection, license plate detection",
-    "development_tools": "docker, git, jupyter notebooks, google colab, flutter (mobile development), web development",
-    "cloud_infrastructure": "pythonanywhere, various cloud platforms, containerization and deployment",
-    "current_focus": "ai agents, automated penetration testing, language models, computer vision applications, intelligent automation systems"
+    "ai_ml_frameworks": "tensorflow, pytorch, jax, hugging face transformers, scikit-learn\n  yolov8, opencv, pandas, numpy",
+    "specialized_areas": "machine learning, deep learning, nlp, computer vision\n  penetration testing automation, ai agents, neural networks\n  gpt-like models, emotion detection, license plate detection",
+    "development_tools": "docker, git, jupyter notebooks, google colab\n  flutter (mobile development), web development",
+    "cloud_infrastructure": "pythonanywhere, various cloud platforms\n  containerization and deployment",
+    "current_focus": "ai agents, automated penetration testing, language models\n  computer vision applications, intelligent automation systems"
   },
   "research": {
-    "current_focus": "ai-powered penetration testing and cybersecurity, intelligent agent systems and automation, small language models and text generation, computer vision for real-world applications",
-    "active_projects": "pentest_agents - modular ai system for automated penetration testing, small-language-model - training gpt-like models for text generation, sql-agents - natural language to sql database interaction, agentic - agent system implementations",
-    "interests": "artificial intelligence in cybersecurity, autonomous agent systems, neural network architectures, real-time ai applications, ai safety and ethical considerations",
-    "application_domains": "cybersecurity and penetration testing, computer vision and object detection, natural language processing, mobile app development with ai integration"
+    "current_focus": "ai-powered penetration testing and cybersecurity\n   • intelligent agent systems and automation\n   • small language models and text generation\n   • computer vision for real-world applications",
+    "active_projects": "pentest_agents - modular ai system for automated penetration testing\n   • small-language-model - training gpt-like models for text generation\n   • sql-agents - natural language to sql database interaction\n   • agentic - agent system implementations",
+    "interests": "artificial intelligence in cybersecurity\n   • autonomous agent systems\n   • neural network architectures\n   • real-time ai applications\n   • ai safety and ethical considerations",
+    "application_domains": "cybersecurity and penetration testing\n   • computer vision and object detection\n   • natural language processing\n   • mobile app development with ai integration"
   },
   "projects": {
     "ai_ml": [
@@ -59,14 +59,14 @@
       "2024-08-05: released software project automation tool",
       "2024-08-04: published flutter crypto app with real-time data"
     ],
-    "current_focus": "advancing ai agent systems, improving penetration testing automation, developing more efficient language models, exploring new computer vision applications",
-    "upcoming": "new research paper on ai in cybersecurity, open-source release of advanced ai tools, collaboration on multi-agent systems"
+    "current_focus": "advancing ai agent systems\n   • improving penetration testing automation\n   • developing more efficient language models\n   • exploring new computer vision applications",
+    "upcoming": "new research paper on ai in cybersecurity\n   • open-source release of advanced ai tools\n   • collaboration on multi-agent systems"
   },
   "hobbies": {
-    "intellectual_pursuits": "reading ai research papers and staying current with latest developments, exploring philosophy of mind and consciousness studies, mathematics and theoretical computer science, cybersecurity research and ethical hacking",
-    "technology_creativity": "experimenting with new ai tools and frameworks, contributing to open-source ai projects, building personal ai assistants and automation tools, mobile app development with flutter",
-    "beyond_ai": "science fiction literature - exploring future possibilities, chess and strategic games - pattern recognition training, photography - capturing the world through different lenses, traveling and experiencing different cultures",
-    "relaxation": "ambient and electronic music for deep focus, meditation and mindfulness practices, cooking - experimenting with flavors and techniques, outdoor activities and nature exploration"
+    "intellectual_pursuits": "reading ai research papers and staying current with latest developments\n   • exploring philosophy of mind and consciousness studies\n   • mathematics and theoretical computer science\n   • cybersecurity research and ethical hacking",
+    "technology_creativity": "experimenting with new ai tools and frameworks\n   • contributing to open-source ai projects\n   • building personal ai assistants and automation tools\n   • mobile app development with flutter",
+    "beyond_ai": "science fiction literature - exploring future possibilities\n   • chess and strategic games - pattern recognition training\n   • photography - capturing the world through different lenses\n   • traveling and experiencing different cultures",
+    "relaxation": "ambient and electronic music for deep focus\n   • meditation and mindfulness practices\n   • cooking - experimenting with flavors and techniques\n   • outdoor activities and nature exploration"
   },
   "quotes": {
     "quotes_list": [
@@ -78,20 +78,35 @@
       "the real question is not whether machines think but whether men do. - b.f. skinner",
       "security is not a product, but a process. - bruce schneier"
     ],
-    "personal_philosophy": "ai should enhance human capabilities while maintaining ethical boundaries. in cybersecurity, we build defenses by thinking like attackers. innovation comes from the intersection of curiosity and practical application."
-  },
-  "music": {
-    "coding_research": "ambient electronic - brian eno, tim hecker, lo-fi instrumental - nujabes, emancipator, classical - bach, debussy, glass, post-rock - godspeed you! black emperor, explosions in the sky",
-    "deep_focus": "binaural beats for concentration, nature sounds and white noise, minimalist compositions, algorithmic and generative music",
-    "inspiration_creativity": "experimental electronic - aphex twin, autechre, cyberpunk and synthwave - perturbator, carpenter brut, jazz fusion - weather report, mahavishnu orchestra, world music - various cultures and traditions",
-    "relaxation": "meditation music and soundscapes, acoustic guitar and piano, ambient drone and field recordings, downtempo and chillout"
+    "personal_philosophy": "Ai should enhance human capabilities while maintaining ethical boundaries.\n in cybersecurity, we build defenses by thinking like attackers.\n innovation comes from the intersection of curiosity and practical application."
   },
   "books": {
-    "currently_reading": "artificial intelligence: a guide for thinking humans - melanie mitchell, the alignment problem - brian christian, penetration testing: a hands-on introduction to hacking - georgia weidman",
-    "ai_ml": "deep learning - ian goodfellow, yoshua bengio, aaron courville, pattern recognition and machine learning - christopher bishop, the elements of statistical learning - hastie, tibshirani, friedman, superintelligence - nick bostrom, hands-on machine learning - aurélien géron",
-    "cybersecurity_hacking": "the web application hacker's handbook - dafydd stuttard, metasploit: the penetration tester's guide - david kennedy, black hat python - justin seitz, the hacker playbook series - peter kim",
-    "cognitive_science_philosophy": "consciousness explained - daniel dennett, the mind's i - hofstadter & dennett, thinking, fast and slow - daniel kahneman, gödel, escher, bach - douglas hofstadter",
-    "science_fiction_futurism": "neuromancer - william gibson, the diamond age - neal stephenson, foundation series - isaac asimov, blindsight - peter watts"
+    "currently_reading": [
+      {"title": "artificial intelligence: a guide for thinking humans", "author": "melanie mitchell"},
+      {"title": "the alignment problem", "author": "brian christian"},
+      {"title": "penetration testing: a hands-on introduction to hacking", "author": "georgia weidman"}
+    ],
+    "ai_ml": [
+      {"title": "deep learning", "author": "ian goodfellow, yoshua bengio, aaron courville"},
+      {"title": "pattern recognition and machine learning", "author": "christopher bishop"},
+      {"title": "the elements of statistical learning", "author": "hastie, tibshirani, friedman"},
+      {"title": "superintelligence", "author": "nick bostrom"},
+      {"title": "hands-on machine learning", "author": "aurélien géron"}
+    ],
+    "cybersecurity_hacking": [
+      {"title": "the web application hacker's handbook", "author": "dafydd stuttard"},
+      {"title": "metasploit: the penetration tester's guide", "author": "david kennedy"},
+      {"title": "black hat python", "author": "justin seitz"},
+      {"title": "the hacker playbook series", "author": "peter kim"}
+    ],
+    "cognitive_science_philosophy": [
+      {"title": "consciousness explained", "author": "daniel dennett"},
+      {"title": "the mind's i", "author": "hofstadter & dennett"},
+      {"title": "thinking, fast and slow", "author": "daniel kahneman"},
+      {"title": "gödel, escher, bach", "authore", "author": "neal stephenson"},
+      {"title": "foundation series", "author": "isaac asimov"},
+      {"title": "blindsight", "author": "peter watts"}
+    ]
   }
-}
 
+}
