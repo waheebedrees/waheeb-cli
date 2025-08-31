@@ -78,13 +78,7 @@
       "the real question is not whether machines think but whether men do. - b.f. skinner",
       "security is not a product, but a process. - bruce schneier"
     ],
-    "personal_philosophy": "ai should enhance human capabilities while maintaining ethical boundaries.\n in cybersecurity, we build defenses by thinking like attackers.\n innovation comes from the intersection of curiosity and practical application."
-  },
-  "music": {
-    "coding_research": "ambient electronic - brian eno, tim hecker\n   • lo-fi instrumental - nujabes, emancipator\n   • classical - bach, debussy, glass\n   • post-rock - godspeed you! black emperor, explosions in the sky",
-    "deep_focus": "binaural beats for concentration\n   • nature sounds and white noise\n   • minimalist compositions\n   • algorithmic and generative music",
-    "inspiration_creativity": "experimental electronic - aphex twin, autechre\n   • cyberpunk and synthwave - perturbator, carpenter brut\n   • jazz fusion - weather report, mahavishnu orchestra\n   • world music - various cultures and traditions",
-    "relaxation": "meditation music and soundscapes\n   • acoustic guitar and piano\n   • ambient drone and field recordings\n   • downtempo and chillout"
+    "personal_philosophy": "Ai should enhance human capabilities while maintaining ethical boundaries.\n in cybersecurity, we build defenses by thinking like attackers.\n innovation comes from the intersection of curiosity and practical application."
   },
   "books": {
     "currently_reading": [
@@ -109,11 +103,7 @@
       {"title": "consciousness explained", "author": "daniel dennett"},
       {"title": "the mind's i", "author": "hofstadter & dennett"},
       {"title": "thinking, fast and slow", "author": "daniel kahneman"},
-      {"title": "gödel, escher, bach", "author": "douglas hofstadter"}
-    ],
-    "science_fiction_futurism": [
-      {"title": "neuromancer", "author": "william gibson"},
-      {"title": "the diamond age", "author": "neal stephenson"},
+      {"title": "gödel, escher, bach", "authore", "author": "neal stephenson"},
       {"title": "foundation series", "author": "isaac asimov"},
       {"title": "blindsight", "author": "peter watts"}
     ]
