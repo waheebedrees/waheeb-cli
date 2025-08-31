@@ -1,4 +1,4 @@
-# Waheeb CLI - Your Personal Command-Line Interface on the Web
+# Waheeb CLI - My Personal Command-Line Interface on the Web
 
 🌐 **Live Demo:** [waheeb-cli.vercel.app](https://waheeb-cli.vercel.app/)
 
