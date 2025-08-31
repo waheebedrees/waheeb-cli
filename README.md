@@ -4,7 +4,7 @@
 
 ## About
 
-Waheeb CLI is a unique personal command-line interface accessible directly through your web browser. It serves as an interactive and engaging way to explore the professional profile, skills, projects, and interests of Waheeb Edrees, an AI researcher and engineer. This CLI provides a dynamic alternative to traditional static resumes or portfolios, offering a hands-on experience for anyone interested in his work and background.
+Waheeb CLI is a web-based command-line interface that introduces Waheeb Edrees, a student who enjoys learning, building projects, and exploring research ideas. Instead of a traditional resume or portfolio, this CLI offers an interactive experience where you can discover his skills, projects, and personal interests in a fun and engaging way.
 
 ## Features
 
