@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Waheeb CLI - Your Personal Command-Line Interface on the Web
 
-## Getting Started
+🌐 **Live Demo:** [waheeb-cli.vercel.app](https://waheeb-cli.vercel.app/)
 
-First, run the development server:
+## About
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Waheeb CLI is a unique personal command-line interface accessible directly through your web browser. It serves as an interactive and engaging way to explore the professional profile, skills, projects, and interests of Waheeb Edrees, an AI researcher and engineer. This CLI provides a dynamic alternative to traditional static resumes or portfolios, offering a hands-on experience for anyone interested in his work and background.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Interactive Interface:** Experience a familiar command-line environment directly in your web browser.
+- **Comprehensive Profile:** Access detailed information about Waheeb Edrees's biography, background, and contact details.
+- **Technical Skills Overview:** Discover a comprehensive list of programming languages, AI/ML frameworks, specialized areas, development tools, and cloud/infrastructure expertise.
+- **Project Showcase:** Explore a curated collection of AI, cybersecurity automation, intelligent agents, and mobile web projects, complete with links to GitHub repositories and live demos where available.
+- **Personal Insights:** Delve into Waheeb's research interests, activities, hobbies, favorite quotes, and book collection.
+- **Real-time Information:** Check the current time in Waheeb's timezone.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Usage
 
-## Learn More
+To interact with the Waheeb CLI, simply type commands into the input field and press Enter. The CLI is designed to be intuitive, providing suggestions and helpful information as you navigate through Waheeb's profile.
 
-To learn more about Next.js, take a look at the following resources:
+### Getting Started
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Type `help` or `?` to view a list of all available commands and their descriptions.
+- Start typing a command, and the CLI will offer suggestions for completion.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Available Commands
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Command    | Description                                   | Aliases          |
+|------------|-----------------------------------------------|------------------|
+| `help`     | Show all available commands                   | `h`, `?`         |
+| `whoami`   | Display information about me                  | `who`, `me`      |
+| `about`    | Show detailed bio and background              | `bio`, `info`    |
+| `contact`  | Show contact information                      | `email`, `reach` |
+| `skills`   | List technical skills and expertise           | `tech`, `stack`  |
+| `research` | Show research areas and projects              | `papers`, `studies`|
+| `projects` | Show GitHub projects and work                 | `work`, `portfolio`|
+| `activities`| Show recent activities and updates            | `activity`, `logs`, `r`|
+| `hobbies`  | What I do for fun                             | `interests`, `fun`|
+| `quotes`   | Favorite quotes and thoughts                  | `quote`, `wisdom`|
+| `books`    | My book collection and reading list           | `book`, `reading`, `li`|
+| `clear`    | Clear the terminal screen                     | `cls`, `clean`   |
+| `pwd`      | Show current location                         | `location`       |
+| `time`     | Show current time in my timezone              | `date`, `now`    |
